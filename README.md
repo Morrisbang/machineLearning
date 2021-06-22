@@ -1,6 +1,6 @@
 # ML/DL BASIC with tensorflow
 
-##supervised learning
+## supervised learning
 
 ###Regression
 - linear regression model
