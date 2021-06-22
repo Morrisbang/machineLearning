@@ -4,7 +4,9 @@
 
 ### Regression
 - linear regression model
-- 
+- Cost Function 
+- Gradient Descent method 
+- learning Rate
 
 ### Binary classification 
 
