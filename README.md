@@ -2,17 +2,17 @@
 
 ## supervised learning
 
-###Regression
+### Regression
 - linear regression model
 - 
 
-###Binary classification 
+### Binary classification 
 
 - Binary classifiacation 
 - signoid model 
 - softmax
 
-###Non-linear Function
+### Non-linear Function
 - XOR problem
 - multilayer 
 - hidden layer
@@ -23,4 +23,4 @@
 - MNIST
 
 To be continue
-###CNN
+### CNN
