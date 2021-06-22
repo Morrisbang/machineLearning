@@ -11,16 +11,16 @@
 ### Binary classification 
 
 - Binary classifiacation 
-- signoid model 
-- softmax
+- Signoid model 
+- Softmax
 
-### Non-linear Function
+### ANN(Artificial Neural Network)
 - XOR problem
-- multilayer 
-- hidden layer
-- ANN(Artificial Neural Network)
-- wide and deep 
-- signoid problem
+- Multilayer 
+- Hidden Layer
+- Multilayer Perceptron
+- Wide and Deep 
+- Limitation of Signoid
 - ReLU
 - MNIST
 
